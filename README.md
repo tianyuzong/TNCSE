@@ -1,5 +1,5 @@
 # TNCSE
-AAAI25 paper
+AAAI25 accepted paper
 # Introduction
 
 This repository is belong to the conference paper titled "TNCSE: Tensor's Norm Constraints for Unsupervised Contrastive Learning of Sentence Embeddings".
